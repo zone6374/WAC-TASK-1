@@ -37,3 +37,6 @@ body{font-family: 'Open Sans', sans-serif;font-size: 14px;}
 .details-box h4{font-size: 17px;color:#2A3844;font-weight: bold;}
 .details-box p{font-size: 13px;color:#5D677E;letter-spacing: 0.16px;margin-bottom: 35px;}
 .details-box a{font-size: 15px;font-weight: bold;text-decoration: none;border: 1px solid #1CC0EF;border-radius: 8px;color: #1CC0EF;padding:13.5px 10px 14.5px 9px;}
+/************************************* footer-area  **********************************/
+footer{margin-left:215px;}
+.footer-box h6 a{text-decoration: none;}
