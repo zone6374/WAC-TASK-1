@@ -32,7 +32,7 @@ body{font-family: 'Open Sans', sans-serif;font-size: 14px;}
 .featured-box{margin:60px 274px 15px 125px;}
 .details-image img{width: 410px;}
 .details-image {padding-left: 104px;}
-.details-box{text-align: left;margin: auto;padding: 40px 164px 0px 0px}
+.details-box{text-align: left;margin: auto; padding: 40px 164px 0px 0px}
 .details-box h3{font-size: 24px;color: #2A3844;font-weight: bold;}
 .details-box h4{font-size: 17px;color:#2A3844;font-weight: bold;}
 .details-box p{font-size: 13px;color:#5D677E;letter-spacing: 0.16px;margin-bottom: 35px;}
